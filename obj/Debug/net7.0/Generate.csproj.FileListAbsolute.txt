@@ -1,0 +1,15 @@
+/Users/hoangthanh/DSA/Generate/bin/Debug/net7.0/Generate
+/Users/hoangthanh/DSA/Generate/bin/Debug/net7.0/Generate.deps.json
+/Users/hoangthanh/DSA/Generate/bin/Debug/net7.0/Generate.runtimeconfig.json
+/Users/hoangthanh/DSA/Generate/bin/Debug/net7.0/Generate.dll
+/Users/hoangthanh/DSA/Generate/bin/Debug/net7.0/Generate.pdb
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.csproj.AssemblyReference.cache
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.AssemblyInfoInputs.cache
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.AssemblyInfo.cs
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.csproj.CoreCompileInputs.cache
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.dll
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/refint/Generate.dll
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.pdb
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/Generate.genruntimeconfig.cache
+/Users/hoangthanh/DSA/Generate/obj/Debug/net7.0/ref/Generate.dll
