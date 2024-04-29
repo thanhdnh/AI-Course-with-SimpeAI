@@ -1,1 +1,1 @@
-** SimpleAI package for Artificial Intelligence course
+*SimpleAI package for Artificial Intelligence course
